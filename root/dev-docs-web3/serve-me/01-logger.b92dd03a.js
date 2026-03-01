@@ -1,0 +1,2 @@
+var e=globalThis.parcelRequire375b;(0,e.register)("1hgAC",function(o,l){Object.defineProperty(o.exports,"__esModule",{value:!0,configurable:!0}),Object.defineProperty(o.exports,"default",{get:()=>t,set:void 0,enumerable:!0,configurable:!0});var r=e("jQmxK"),t=async function(){console.log(`\u{1F5C2} Logger up with level "${r.default.getLevel()}". Reminder to check your dev tools log level!`)}});
+//# sourceMappingURL=01-logger.b92dd03a.js.map

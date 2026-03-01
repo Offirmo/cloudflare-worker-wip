@@ -1,0 +1,2 @@
+var e=globalThis.parcelRequire375b;(0,e.register)("dVhbw",function(o,r){Object.defineProperty(o.exports,"__esModule",{value:!0,configurable:!0}),Object.defineProperty(o.exports,"default",{get:()=>i,set:void 0,enumerable:!0,configurable:!0});var t=e("3qiD7"),i=async function(){(0,t.getRootSXC)().xTry("init",({logger:e,SXC:o})=>{console.log("TODO model")})}});
+//# sourceMappingURL=20-model.8342ca80.js.map

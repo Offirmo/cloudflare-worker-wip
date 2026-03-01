@@ -1,0 +1,2 @@
+(0,globalThis.parcelRequire375b.register)("5KobF",function(e,t){Object.defineProperty(e.exports,"__esModule",{value:!0,configurable:!0}),Object.defineProperty(e.exports,"default",{get:()=>o,set:void 0,enumerable:!0,configurable:!0});var o=async function(){document.documentElement.setAttribute("lang","en");let e=document.getElementById("react-root");e||((e=document.createElement("div")).id="react-root",document.body.appendChild(e)),e.classList.add("o⋄full-viewport")}});
+//# sourceMappingURL=30-dom.7ec90f98.js.map
