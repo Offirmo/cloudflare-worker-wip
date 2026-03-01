@@ -7,5 +7,5 @@
 	},
 	"compatibility_date": "2026-02-28",
 	"compatibility_flags": ["nodejs_compat"],
-	"observability": { "enabled": true }
+	"observability": { "enabled": true },"name": "cloudflare-worker-wip"
 }
